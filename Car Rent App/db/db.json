@@ -1,0 +1,85 @@
+{
+  "user": [
+    {
+      "id": "53c7cf90-d067-4bc2-b976-969561e6f7ed",
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "name": "Frost Yangi",
+      "email": "frostyang@plasmox.com",
+      "phone": "+1 (867) 534-3104",
+      "address": "415 Halsey Street, Martell, Kansas, 1612",
+      "password": "123"
+    },
+    {
+      "id": "1262ccdb-8cf9-4224-8ba5-6a17bc4f3747",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "name": "Price Delgado",
+      "email": "pricedelgado@plasmox.com",
+      "phone": "+1 (809) 466-2393",
+      "address": "121 Lake Street, Bellfountain, Iowa, 8541",
+      "password": "123"
+    },
+    {
+      "id": "300490ef-d7b3-4189-8b94-8c57347f3d01",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "name": "Foster Baxter",
+      "email": "fosterbaxter@plasmox.com",
+      "phone": "+1 (850) 538-2779",
+      "address": "259 Irving Street, Layhill, Puerto Rico, 8411",
+      "password": "123"
+    },
+    {
+      "id": "fc95ca78-96bd-416f-9c91-40604695270e",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=5",
+      "name": "Robinson Rush",
+      "email": "robinsonrush@plasmox.com",
+      "phone": "+1 (936) 409-2723",
+      "address": "939 Church Lane, Oasis, Palau, 8426",
+      "password": "123"
+    },
+    {
+      "id": "7ebdb4ad-d347-4af1-8b01-0366f6154274",
+      "isActive": false,
+      "picture": "https://picsum.photos/200/300?random=6",
+      "name": "Helena Hopkins",
+      "email": "helenahopkins@plasmox.com",
+      "phone": "+1 (867) 548-3273",
+      "address": "517 Manhattan Court, Bath, Virgin Islands, 4300",
+      "password": "123"
+    }
+  ],
+  "rents": [
+    {
+      "id": 1,
+      "title": "test card",
+      "description": "test descr",
+      "year": "2018",
+      "fuelType": "Petrol",
+      "type": "Economy",
+      "numberOfSeats": "2",
+      "status": "NEW",
+      "customerId": "fc95ca78-96bd-416f-9c91-40604695270e",
+      "customerName": "Helena Hopkins",
+      "createdDate": "2022-06-11",
+      "dueDate": "2022-06-25"
+    },
+    {
+      "title": "Nissan",
+      "description": "",
+      "year": "2022-06-19",
+      "dueDate": "Thu Jun 30 2022",
+      "status": "In Progress",
+      "numberOfSeats": "4",
+      "type": "Luxury",
+      "fuelType": "Hybrid",
+      "customerId": "7ebdb4ad-d347-4af1-8b01-0366f6154274",
+      "customerName": "Helena Hopkins",
+      "createdDate": "Sat Jun 11 2022",
+      "id": 5
+    }
+  ],
+  "status": []
+}
